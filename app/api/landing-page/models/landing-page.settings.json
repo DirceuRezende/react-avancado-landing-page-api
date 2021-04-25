@@ -69,6 +69,18 @@
       "repeatable": false,
       "component": "page.section-about-project",
       "required": true
+    },
+    "sectionReviews": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-reviews",
+      "required": true
+    },
+    "sectionFaq": {
+      "type": "component",
+      "repeatable": false,
+      "component": "page.section-faq",
+      "required": true
     }
   }
 }
